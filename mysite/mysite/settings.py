@@ -25,7 +25,7 @@ SECRET_KEY = 'vaf3=wxsp*(3*^$cd=4x_+17*w%5kvn_)at7%tw!!+c5s2p!)j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =  ['*']
 
 
 # Application definition
